@@ -1,3 +1,4 @@
+package ru.netology.dz;
 public class Post {
     public String name; // поле для имени
     public String passport; // поле для паспорта
